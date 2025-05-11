@@ -30,7 +30,7 @@ const navLinks = [
   
   const counterItems = [
     { value: 1, suffix: "+", label: "Years of Experience" },
-    { value: 200, suffix: "+", label: "Satisfied Clients" },
+    { value: 100, suffix: "+", label: "Satisfied Clients" },
     { value: 10, suffix: "+", label: "Completed Projects" },
     { value: 50, suffix: "+", label: "Commits" },
   ];

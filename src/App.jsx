@@ -1,9 +1,10 @@
-import { Hero } from './sections/index'
+import { Hero,ShowcaseSection } from './sections/index'
 
 const App = () => {
   return (
     <>
       <Hero />
+      <ShowcaseSection />
     </>
   )
 }
