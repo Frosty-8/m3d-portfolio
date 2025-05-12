@@ -9,6 +9,8 @@ const LogoIcon = ({ icon }) => {
     )
 }
 
+
+
 export const LogoSection = () => {
   return (
     <div className='md:my-20 my-10 relative'>
