@@ -1,7 +1,7 @@
 export { Button } from './Button'
 export { HeroExperience} from './HeroModels/HeroExperience'
 export {AnimatedCounter} from './AnimatedCounter'
-export { default as Navbar } from './Navbar'
+export { default as Navbar } from './Navbar.jsx'
 export { LogoSection} from './LogoSection'
 export { TitleHeader } from './TitleHeader'
 export { GlowCard } from './GlowCard'
