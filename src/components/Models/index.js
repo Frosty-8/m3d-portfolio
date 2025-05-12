@@ -1,0 +1,1 @@
+export { Techicon } from './TechLogos/Techicon'
