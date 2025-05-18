@@ -1,7 +1,7 @@
 import React,{useState,useEffect} from 'react'
 import { navLinks } from '../constants/index'
 
-const Navbar = () => {
+export const Navbar = () => {
     const [scrolled, setScrolled] = useState(false)
 
     useEffect(()=>{
@@ -48,5 +48,3 @@ const Navbar = () => {
     </header>
   )
 }
-
-export default Navbar
