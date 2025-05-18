@@ -259,13 +259,13 @@ const navLinks = [
       imgPath: "/images/fb.png",
     },
     {
-      name: "x",
-      url: "https://www.x.com/",
-      imgPath: "/images/x.png",
+      name: "github",
+      url: "https://github.com/Frosty-8",
+      imgPath: "/images/github.png",
     },
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/",
+      url: "https://www.linkedin.com/in/sarthak-dongare/",
       imgPath: "/images/linkedin.png",
     },
   ];
